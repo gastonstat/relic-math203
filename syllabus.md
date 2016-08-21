@@ -22,9 +22,10 @@ functions and relations; exponential and logarithmic functions; sequences and se
 
 - Weekly homework assignments are due as posted online.
 - Assignments must be turned in during lecture.
-- Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
-- After the due date of each assignment, you will have access to the correct answers.
-- You get credit for a homework assignment only if you complete all the questions.
+- Each HW will be graded according to completeness: you get credit for 70% or more
+of the problems done; no credit for less than 70% of problems done.
+- Show your work on the problems, as appropriate. If answers are simply copied 
+down, then they will not be counted.
 - There are NO make-up or late HWs, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
 - Instead of late HW, I will drop two HW assignments at the end of the semester.
 - You'll get extra credit if you turn in ALL assignments.
@@ -32,10 +33,7 @@ functions and relations; exponential and logarithmic functions; sequences and se
 from another student.
 - I encourage you to collaborate with each other on the HW assignments. Still,
 you must write up your our solutions.
-- Each HW will be graded according to completeness: you get credit for 70% or more
-of the problems done; no credit for less than 70% of problems done.
-- Show your work on the problems, as appropriate. If answers are simply copied 
-down, then they will not be counted.
+- Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
 
 
 
